@@ -1,6 +1,5 @@
 # pet_project
 
-![](https://github.com/itzbw/pet_project/blob/master/ezgif-4-529617728a.gif?raw=true)
+![](https://github.com/itzbw/pet_project/blob/master/brigitte.gif?raw=true)
 
-
-compile dondonut.c with flag -lm
+the server master - Brigitte
